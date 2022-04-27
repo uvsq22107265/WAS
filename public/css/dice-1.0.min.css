@@ -1,0 +1,12 @@
+/*
+ * Dice.css v1.0
+ * Code - MIT License - https://github.com/diafygi/dice-css
+ * Images - Public Domain - https://openclipart.org/detail/105931/sixsided-dice-faces-lio-01
+ */
+.dice{display:inline-block;/*min-height:1em;padding-left:1em;*/background-size:1em;background-repeat:no-repeat;background-color: white;}
+.dice-1{background-image: url("../img/as.png");}
+.dice-2{background-image:url("../img/2.png");}
+.dice-3{background-image: url("../img/3.png");}
+.dice-4{background-image: url("../img/4.png");}
+.dice-5{background-image: url("../img/5.png");}
+.dice-6{background-image: url("../img/6.png");}
